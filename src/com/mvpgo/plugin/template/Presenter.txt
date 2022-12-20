@@ -1,0 +1,13 @@
+package &package&;
+
+import &mvp&.BasePresenterImpl;
+
+/**
+ * Android MvpGo
+ *
+ * @Author: Anonymous
+ * @Email 824977836@qq.com
+ */
+public class &Presenter& extends BasePresenterImpl<&Contract&.View> implements &Contract&.Presenter{
+    
+}

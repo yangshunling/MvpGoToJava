@@ -1,0 +1,13 @@
+package &package&;
+
+import &mvp&.MVPBaseActivity;
+
+/**
+ * Android MvpGo
+ *
+ * @Author: Anonymous
+ * @Email 824977836@qq.com
+ */
+public class &Activity& extends MVPBaseActivity<&Contract&.View, &Presenter&> implements &Contract&.View {
+
+}

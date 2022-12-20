@@ -1,0 +1,14 @@
+package &package&;
+
+
+import &mvp&.MVPBaseFragment;
+
+/**
+ * Android MvpGo
+ *
+ * @Author: Anonymous
+ * @Email 824977836@qq.com
+ */
+public class &Fragment& extends MVPBaseFragment<&Contract&.View, &Presenter&> implements &Contract&.View {
+
+}

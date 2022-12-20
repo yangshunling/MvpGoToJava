@@ -1,0 +1,13 @@
+package &package&;
+
+import android.content.Context;
+
+/**
+ * Android MvpGo
+ *
+ * @Author: Anonymous
+ * @Email 824977836@qq.com
+ */
+public interface BaseView {
+    Context getContext();
+}
